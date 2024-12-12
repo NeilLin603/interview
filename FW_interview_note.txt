@@ -1,0 +1,64 @@
+//!*****************************************************************************
+//! Note: 以下整理一些面試韌體工程師要準備的項目，屬於個人經驗分享，提供參考。
+//!                                                                   Neil Lin
+//!*****************************************************************************
+//
+// Coding
+//
+1. 資料結構
+   • 必考: array、linked list、stack and queue
+   • 剩下的可以照這個順序練習: hash table > binary tree (> graph)
+   • 我整理的一些白板題解法: https://github.com/NeilLin603/whiteboard_questions
+
+2. 演算法
+   • 必考: sorting、binary search
+   • 老掉牙的題目(費氏數列比較常考，剩下的有空當興趣練習即可): https://openhome.cc/zh-tw/algorithm
+     考費氏數列實作，直接用迭代法解最快: https://github.com/NeilLin603/algorithms/blob/main/2_fibonacci_sequence.c
+
+3. 程式輸出觀念題
+   • F/W面試很多從這裡出來，因為題目量真的蠻多的，刷不完沒關係，但有時間就盡量多刷一點(建議答案都先遮住，自己實際想過結果，再去對答案):
+     https://www.geeksforgeeks.org/c-multiple-choice-questions/
+
+4. Leetcode
+   • 面試韌體職缺，leetcode沒有非刷不可，假如面試時間已經火燒屁股了，直接找考古題刷就好，那時會比還去刷leetcode有效。
+     但如果面試時間不是那麼趕，有空還是建議多寫一些題目，提升coding基本功跟建立解題的靈敏度。
+   • 先從Top Interview 150裡的以下主題練習，有多的時間再練LeetCode 75 (一樣找相關主題練習)，個人認為對面試韌體缺來說已經蠻夠的了。
+     1) 主要練習的主題(每個主題建議都要練)
+        - Array / String
+        - Two Pointers
+        - Stack
+        - Linked List
+        - Binary Search
+        - Bit Manipulation
+     2) 次要練習的主題(依照我認為的優先順序排序)
+        - Hashmap
+        - Binary Tree General
+        - Math
+        - Divide & Conquer
+        - Binary Tree BFS、Binary Search Tree
+   • 以下是我寫的一些解法，供參考:
+     https://github.com/NeilLin603/leetcode
+
+//
+// OS
+//
+筆試題或口頭提問會考到，基本上不會考到太深，把課上過就差不多了。
+推薦清大周志遠教授開放式課程:
+1. 上課影片: https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=141
+2. 上課講義: https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=141&id=999
+3. 有更多時間的話，可以購買上課指定用書來閱讀: Silberschatz's Operating System Concepts (俗稱的恐龍本)
+
+//
+// 考古題
+//
+前幾家IC設計公司，網路上都找得到一些考古資源，或是去找面試過的人要，就是面哪間刷哪間。
+以下稍微整理幾個MTK考古資源，可以參考當作練習:
+1. https://hackmd.io/@eDfExJ5ITHS5BfBQq0DRyg/BJ1jZ184v#Q1--Explain-%E2%80%9Cerror%E2%80%9D-
+2. https://hackmd.io/@Rance/SkSJL_5gX
+3. https://hackmd.io/@accdlab/SJjIvoLTu
+
+//
+// Project Report
+//
+1. PPT準備: 內容大概包含1頁自我介紹 + 2-3頁介紹2-3個主題(每個主題1頁就好，圖太多實在放不下就最多2頁，再多面試主管可能會看得不耐煩)。
+2. 報告方式: 如果不知道怎麼有系統性地介紹每個主題，可以採用"STAR原則"去做說明。當然如果有自己的介紹方式，也不一定要遵照這個原則。
