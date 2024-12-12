@@ -1,6 +1,6 @@
 //!*****************************************************************************
 //! Subject: 韌體工程師面試建議準備方向
-//! Description: 以下整理一些面試韌體工程師要準備的項目，屬於個人經驗分享，提供參考。
+//! Description: 整理一些面試韌體工程師要準備的項目，屬於個人經驗分享，提供參考。
 //!
 //!                                                           Author: Neil Lin
 //!                                                      Last update: 2024.12.12
@@ -13,7 +13,8 @@
 //
 1. 資料結構
    • 必考: array、linked list、stack and queue
-   • 其他: binary tree、hash table (雖然不是必考，但還是很重要，除非真的已經沒時間準備了，不然還是強烈建議都要學會。韌體不會考graph，可以不用會沒關係)
+   • Others: binary tree、hash table (雖然不是必考，但還是很重要，除非真的已經沒時間準備了，不然還是強烈建議都要學會。
+                                      面試韌體不會考graph，所以可以不用會沒關係)
    • 我整理的一些白板題解法: https://github.com/NeilLin603/whiteboard_questions
 
 2. 演算法
