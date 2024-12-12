@@ -1,9 +1,9 @@
 //!*****************************************************************************
 //! Subject: 韌體工程師面試建議準備方向
-//! Description: 整理一些面試韌體工程師要準備的項目，屬於個人經驗分享，提供參考。
-//!
-//!                                                           Author: Neil Lin
-//!                                                      Last update: 2024.12.12
+//! Description: 以下是給韌體工程師面試者的一些準備建議，以我個人的經驗，提供一個比較
+//! 有系統的準備方向，希望可以幫助到後面的人。
+//!                                                             Author: Neil Lin
+//!                                                        Last update: 20241212
 //!*****************************************************************************
 //----------------------------------------------------------------------------//
 //  準備項目
@@ -18,7 +18,7 @@
    • 我整理的一些白板題解法: https://github.com/NeilLin603/whiteboard_questions
 
 2. 演算法
-   • 必考: sorting、binary search
+   • 必考: sorting algorithms、binary search
    • 老掉牙的題目(費氏數列比較常考，剩下的有空當興趣練習即可): https://openhome.cc/zh-tw/algorithm
      考費氏數列實作，直接用迭代法解最快: https://github.com/NeilLin603/algorithms/blob/main/2_fibonacci_sequence.c
 
